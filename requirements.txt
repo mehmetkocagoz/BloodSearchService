@@ -1,0 +1,6 @@
+Flask
+Flask-APScheduler
+azure-storage-queue
+python-dotenv
+pyodbc
+azure-identity
